@@ -1,6 +1,6 @@
 # Case for a 1-probe shutter speed tester based on the hiroshootsfilm project
 
-_This is my attempt to create a case/housing for the electronics and components for a 1-probe shutter speed tester._
+_This is my attempt to create a case/housing for the electronics and components of a 1-probe shutter speed tester._
 
 ## Project goals:
 - A 3D printable case to house shutter speed tester electronics
