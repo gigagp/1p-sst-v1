@@ -1,4 +1,4 @@
-# Case for a 1-probe shutter speed tester based on the hiroshootsfilm project - 4&times;5 - 5&times;7 - 8&times;10
+# Case for a 1-probe shutter speed tester based on the hiroshootsfilm project
 
 _This is my attempt to create a case/housing for the electronics and components for a 1-probe shutter speed tester._
 
